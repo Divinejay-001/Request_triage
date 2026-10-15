@@ -1,0 +1,15 @@
+external_id,received_at,requester,subject,description,priority
+REQ-1001,2026-10-08T09:15:00Z,Amina Yusuf,Unable to sign in,Password reset link has expired,high
+REQ-1002,2026-10-08T10:02:00Z,Daniel Okafor,Update delivery address,Order has not shipped yet,normal
+REQ-1003,2026-10-08T11:20:00Z,Grace Bello,Invoice question,"The invoice lists Lagos, but delivery was to Uyo",low
+REQ-1004,2026-10-09T08:05:00Z,Fatima Musa,Duplicate charge,Two charges appear for one order,high
+REQ-1005,2026-10-09T13:40:00Z,Peter James,Product information,Asks about available sizes,low
+REQ-1006,2026-10-10T12:00:00Z,Blessing Akpan,Missing confirmation,No confirmation email received,normal
+REQ-1007,2026-10-08T08:30:00Z,Tari Ekanem,Change contact number,New number supplied in follow-up,normal
+REQ-1008,2026-10-11T14:10:00Z,Chidi Nwosu,Website error,Checkout page shows an error,high
+REQ-1009,2026-10-11T15:25:00Z,Sarah Udo,Request an update,Asks when the request will be reviewed,urgent
+REQ-1003,2026-10-12T09:10:00Z,Grace Bello,Corrected invoice question,"The invoice lists Lagos, but delivery was to Uyo",low
+,2026-10-12T10:00:00Z,Michael Etim,Lost request ID,Customer system omitted the ID,normal
+REQ-1010,2026-10-12T10:15:00Z,Imani Obong,,Subject was omitted by the customer system,normal
+REQ-1011,2026-10-12T11:05:00Z,Victor Bassey,Please call me,,normal
+REQ-1012,not-a-date,Zainab Ali,Shipping update,Date supplied by customer system is malformed,normal

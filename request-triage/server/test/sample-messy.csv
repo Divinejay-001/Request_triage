@@ -1,0 +1,12 @@
+external_id,received_at,requester,subject,description,priority
+REQ-1,2026-10-10T09:30:00Z,Jane,Login issue,I cannot access my account,high
+REQ-2,2026-10-10 11:05:00,David,Order question,,normal
+,2026-10-10T12:00:00Z,Sarah,No id here,Missing external id,urgent
+REQ-4,2026-10-10T12:30:00Z,,No requester,Missing requester,low
+REQ-5,2026-10-10T13:00:00Z,Amaka,,Missing subject,low
+REQ-6,not-a-date,Tunde,Bad date,Timestamp is invalid,normal
+REQ-1,2026-10-11T08:00:00Z,Jane,Login issue again,Duplicate id in file,high
+REQ-8,2026-02-31T08:00:00Z,Ola,Impossible date,Feb 31st,normal
+REQ-9,2026-10-12T08:00:00Z,Ife,Weird priority,Unknown priority value,SUPER
+REQ-10,2026-10-12T09:00:00Z,Chi,"Multi-line, quoted","Line one
+line two",
